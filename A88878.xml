@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>King Charles vindicated, or The grand cheats of the nation discovered. With an abstract of 1 The Rumps extraordinary exactions, 2 Their large distributions of other mens estates. By W.L. a lover of his country·</title>
+            <author>W. L., a lover of his country.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88878</idno>
+            <idno type="STC">Wing L89</idno>
+            <idno type="STC">Thomason E1017_19</idno>
+            <idno type="STC">ESTC R202782</idno>
+            <idno type="EEBO-CITATION">99862961</idno>
+            <idno type="PROQUEST">99862961</idno>
+            <idno type="VID">115141</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88878)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115141)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1017[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>King Charles vindicated, or The grand cheats of the nation discovered. With an abstract of 1 The Rumps extraordinary exactions, 2 Their large distributions of other mens estates. By W.L. a lover of his country·</title>
+                  <author>W. L., a lover of his country.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, for Theodorus Microcosmus,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "The Rumps .. mens estates." are bracketed together on title page, with numbers at left.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "March. 17. 1659"; also the last two numbers of the imprint date have been marked through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115141:1" rendition="simple:additions"/>
+            <p>KING CHARLES VINDICATED, OR The grand Cheats OF THE NATION diſcovered. With an abſtract of
+<list>
+                  <item>1 The <hi>Rumps</hi> extraordinary exactions,</item>
+                  <item>2 Their large diſtributions of other mens Eſtates.</item>
+               </list>
+            </p>
+            <p>By <hi>W. L.</hi> a lover of his Country.</p>
+            <p>Printed, for <hi>Theodorus Microcoſmus,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115141:2"/>
+            <pb n="3" facs="tcp:115141:2"/>
+            <head>KING CHARLES vindicated, OR, The Grand Cheats OF THE NATION diſcovered.</head>
+            <p>IT is not unknown (but too notoriouſly known) to the whole world the abuſe of this our once hap<g ref="char:EOLhyphen"/>py Kingdome of <hi>England,</hi> by a mercinary Souldi<g ref="char:EOLhyphen"/>ery, and ſome few mercinary mens wills, whoſe wills are their Lawes, and what they will (and nothing elſe) ſhall be adjudged Law or reaſon, when indeed all they doe is beyond Law and Reaſon, the fundamentals of all Government, the breach of Liberty, and reſtraint of Conſcience, forcing men to ſwear, to forſwear them<g ref="char:EOLhyphen"/>ſelves, or elſe unjuſtly to forfeit an Eſtate. And if the queſtion be asked, in whom the legiſlative power of the
+<pb n="4" facs="tcp:115141:3"/>Nation at this time reſides, no other can properly be ſo cal<g ref="char:EOLhyphen"/>led but the Souldiery, who aſſume to themſelves the Government of all things, doing that they know not what it well meanes, or they pretend to mean that they intend not to do; they ſeem to act, and not onely ſeemingly, but actually do act that which the moſt High is ſaid to do, (that is) to ſet up Kings or Rulers, and pull them down at pleaſure. Firſt a King, then a thing called <hi>The Keepers of the Liberty of England</hi> (and indeed in one ſenſe they are juſtly ſo called for they keep our Liberties from us.) Af<g ref="char:EOLhyphen"/>ter that a Protector, and after him another with loud ac<g ref="char:EOLhyphen"/>clamations of joy and congratulations of the people to Crown his inaugeration; yet the Souldiery at this is not well pleaſed, they quickly forget the gifts of mourning, their red coats given them at their Mr. <hi>Olivers</hi> Funeral, and like the Weather Cock turn with the next wind and depoſe him (who I verily believe ſince our unworthineſs called the other, I mean the late King <hi>Charles</hi> of fa<g ref="char:EOLhyphen"/>mous memory away to receive a reward beyond an earth<g ref="char:EOLhyphen"/>ly Crown, that would have ſetled (with that ſo free cho<g ref="char:EOLhyphen"/>ſen Parliament) the Nation in Peace and Happineſſe. But this pleaſed not their humors neither, he muſt out or they muſt down, and he no ſooner out but an aſſump<g ref="char:EOLhyphen"/>tion of Government is taken to themſelves, but not fine<g ref="char:EOLhyphen"/>ding an expedient convenient to their purpoſe, knowing better how to weild a Sword than a Scepter; after a lit<g ref="char:EOLhyphen"/>tle playing with the Government, they reſigne it into the hands of thoſe blood-hounds (the <hi>Rump</hi>) who have been the undoing of the Nation, who muſt not rule neither long, for they are called in <hi>May</hi> and diſſolved again by the Souldiery in <hi>October</hi> following; after them comes a pit<g ref="char:EOLhyphen"/>tiful Committee of Safety, amongſt whom, and of whom it may be ſaid rake Hell and skim the Divel you could not find ſuch a pack of R— two of the chiefeſt I will not forget to name, <hi>Ireton</hi> and <hi>Tichbourn, alias</hi> Tyburn, the laſt
+<pb n="5" facs="tcp:115141:3"/>deſerving for a haſty ſentence by him and others (not many years paſt) pronounced to be hanged at Tyburn, (and the firſt named to receive the ſame puniſhment at the ſame place) His name and the name of that fruitful Tree, differen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing onely in two letters, ſo that I humbly con<g ref="char:EOLhyphen"/>ceive it his deſtiny, which is not ſo much improbable but a little time may effect: two fellows perfidious, never true to any truſt, two that any man may lead to perpetrate any villanies, two of the chiefeſt Actors in undoing the City, two conſtant revealors of the City Counſels, two who for a little gain are ready to ſell their own ſouls to the Di<g ref="char:EOLhyphen"/>vel, (but I believe they are not now to ſell, but rather ſold long agoe) two whoſe actions never agreed with their pretentions; and laſt of all, two, who accounted themſelves Saints from whom (and all ſuch other pre<g ref="char:EOLhyphen"/>tended Saints) good Lord deliver me and every honeſt man.</p>
+            <p>Next after this Committee of Safety (who ſate not long) in came the Rump once more, fellows whoſe actions are without parrallel in any Nation. Now un<g ref="char:EOLhyphen"/>der and by what ſpetious pretence this Rump Acted as a Parliament, take in generall Termes, which is, That the late <hi>King Charles</hi> together with the Houſe of Peers, and themſelves, did Enact that they ſhould not be adjour<g ref="char:EOLhyphen"/>ned, Prorogued, or otherwiſe Diſſolved, unleſs it were by an Act of their own making, well, grant this, they were called by the Kings Writt, and certainly if all Writts in his name ceaſe at his Deceaſe, they muſt likewiſe needs ceaſe to be a Parliament, or if they claime a Po<g ref="char:EOLhyphen"/>wer to ſit, by vertue of that Act, why the Houſe of Peers ſecluded? or any of the Members of the Houſe, of Commons, the Act extended as well to one, nay all, as to this Rump: beſides, there is not one tittle mention<g ref="char:EOLhyphen"/>ed in that Act, to the purpoſe they Act by; that is, that
+<pb n="6" facs="tcp:115141:4"/>the King gave them power by vertue of that Act to take upon them the Government of the Kingdoms after his Deceaſe, to take away his own life, ſeclude the Houſe of Peers, or any of their fellow Members, for the King being <hi>Caput principium ad ſinem,</hi> no man cannot but con<g ref="char:EOLhyphen"/>clude, that upon his departing this life the Parliament determined.</p>
+            <p>But they are pleaſed ſtill to ſit as a Parliament con<g ref="char:EOLhyphen"/>trary to all Law, for let any man ſhew me where ever a Parliament being Diſſolved as this legally was by the death of the King, that ever had the impudence to ſit and do what they liſted, I muſt confeſs adjourned of them<g ref="char:EOLhyphen"/>ſelves, or by the King that called them prorogued untill a further time, at which time of meeting the King as he pleaſes diſſolves them. But if they will not acknowledge this a Diſſolution you may find one in 1653, for when they underſtood that <hi>Oliver</hi> the late Protector was reſol<g ref="char:EOLhyphen"/>ved to turn them out of Doors (the which he did with a Title befitting them, Rogues and Whore maſters) they put it to the Vote whether they ſhould ſuffer themſelves to be turned out, or Diſſolve themſelves, it paſt in the affirmative to Diſſolve themſelves, upon which a Diſſolu<g ref="char:EOLhyphen"/>tion was recorded not (interruption as they call it) the which if Mr. <hi>Scobell</hi> their then Clerk durſt, he can (if he pleaſe) juſtifie, or the Records themſelves if ſearch't would make it evident if theſe fellows (I mean the Rump) have not alter'd: the rolle, the which no doubt they would not ſtick to do or make a ſcruple of, more then their often for-ſwearing themſelves.</p>
+            <p>Next to bring <hi>Oliver</hi> and their Power into Competi<g ref="char:EOLhyphen"/>tion, they ſtick and call it (as I ſaid before) an interrup<g ref="char:EOLhyphen"/>tion, to which I put this Query, whether <hi>Oliver</hi> that diſſolved them, or they that Acted as a Parliament (when
+<pb n="7" facs="tcp:115141:4"/>none) had the moſt &amp; beſt power, to which I anſwer, their power was equall alike, though the Rump may urge <hi>Oliver</hi> receiving his Commiſſion from them ought to have been obedient to their Commands, to which then I an<g ref="char:EOLhyphen"/>ſwer they being called by the Kings Writt (and choſen by the people for their Repreſentatives in Parliament) was the Kings Servants, &amp; by the Oath of Allegiance bound to be faithfull to the King, more then <hi>Oliver</hi> to them, for they (according to the Law were Traytors, and thereby in<g ref="char:EOLhyphen"/>curr'd the penalty of the Law againſt ſuch offenders in taking away their lawfull Soveraigne which <hi>Oliver</hi> knew very well, and that it was more lawfull for him to diſſolve them, then they to cut off the King's Head, knowing alſo they were Rebells and Traytors in Acting what they did againſt the King, therefore no Legall Power but what ever he Acted againſt them could be no Treaſon, up<g ref="char:EOLhyphen"/>on which a Queſtion here ariſes, which is, who was Su<g ref="char:EOLhyphen"/>preame after the death of the King? to which I anſwer, not the Rump, nor <hi>Oliver,</hi> according to our Laws, the Crown being ſetled Hereditary many Centaries of years before<g ref="char:punc">▪</g> which without doubt ought ſo ſtill to continue.</p>
+            <p>But to go further this Rump (as they ſay) being but in<g ref="char:EOLhyphen"/>terrupted and not Diſſolved why did not they as well in <hi>Olivers</hi> time as the Kings time keep up their power; the King demanded but five of their Members, <hi>Oliver</hi> and the Army under his Command, firſt gave them a large purge of above two hundred &amp; odd, &amp; afterwards diſſolved all, yet the Kings Legall demand of five Members muſt be voted and adjudged a high breach of the priviledge of Parliament, nay greater then <hi>Olivers</hi> diſſolving all; And if <hi>Olivers</hi> interruption (as they call it) of them were no diſſolution, but only an interruption, why then did they allow of, or contribute too, the payment of any duties whatſoever, and declare to the world that they were
+<pb n="8" facs="tcp:115141:5"/>under a force, and that the power which diſſolved or interrupted them were Illegall, and that if any man paid any duties whatſoever, it was in their own wrong; but they were affraid to loſe that which I hope will not be long ere they do loſe their Heads, as but juſt; And if they urge it, was under a force, then likewiſe from thence do I conclude, That the death of the King, the Diſſolu<g ref="char:EOLhyphen"/>tion of themſelves, the Power we have been and ſtill are governed by, is a force, a meere force, no leſs, juſt ſo, and therefore an Illegall Power. And to add this one thing more, there were Parliaments in <hi>Olivers</hi> time, and a Parliament in the late Protector <hi>Richards</hi> time, and if this Rump that now ſits as a Parliament were then as they ſtill would be a Parliament, 'tis the weakeſt reaſon in the world for any man to ſay (that becauſe they ſate as a Parliament) they only were the ſupream power, which if it were true that this Rump or pretended Parliament were only (according to Law) ever ſince the death of the late King the ſupream power, then they cannot but con<g ref="char:EOLhyphen"/>clude but that all the actions of <hi>Oliver</hi> were <hi>Treaſon,</hi> all the Army <hi>Traytors,</hi> all proceedings in every or any Court ever ſince Illegall, and moſt part of the Nation involved in Treaſon, amongſt which number of Traytors (accor<g ref="char:EOLhyphen"/>ding to their own made Supremacy and power) a great many of their own gang may be reckoned in the late Com<g ref="char:EOLhyphen"/>mittee of Safety, which being true, why ought not thoſe perſons to receive the reward of their Treaſon openly? as their private crimes made them privately guilty of recei<g ref="char:EOLhyphen"/>ving condign punniſhment.</p>
+            <div type="part">
+               <pb n="9" facs="tcp:115141:5"/>
+               <head>Now to begin with the grand Quarrell the Parliament had against the King which was of Shipmoney, a thing but juſt, and which they themſelves knows it to be juſt, and that a King being in neceſsity may Le<g ref="char:EOLhyphen"/>gally exact money from his Subjects for his and their juſt defence, a thing the Parliament could them<g ref="char:EOLhyphen"/>ſelves make uſe off, although they denyed it to the King, as the following Summs unjuſtly exacted by the Rump will appear.</head>
+               <list>
+                  <item>IN <hi>Anno</hi> 1643 they borrowed a great ſum of money up<g ref="char:EOLhyphen"/>on the publick faith (which is now a Bankrupt) as you may find in the eighteenth Chapter of their book of Acts.</item>
+                  <item>In <hi>Anno</hi> 1645 they borrowed another great ſum of money, <hi>chap.</hi> 56.</item>
+                  <item>In <hi>Anno</hi> 1646, two hundred thouſand pounds more was borrowed upon the Exciſe, <hi>chap.</hi> 65.</item>
+                  <item>In <hi>Anno</hi> 1647 two hundred thouſand pounds more was advanced for the ſervice of <hi>England</hi> and <hi>Ireland, chap.</hi> 75 and 79.</item>
+                  <item>In the ſame year 1647, forty-two thouſand pound more was borrowed and ſecured upon Biſhops Lands, <hi>chap.</hi> 79.</item>
+                  <item>In the ſame year 1647, Fifty thouſand pounds more was borrowed and ſecured upon Delinquents Eſtates, <hi>chap.</hi> 102.</item>
+                  <item>In the year 1648, Two hundred thouſand pounds more was ſecured upon Delinquents Eſtates, <hi>chap.</hi> 115.</item>
+                  <item>In the year 1650, Security for another great ſumm of money was advanced for the uſe of the Army and Navy, <hi>chap.</hi> 11.</item>
+                  <item>In the ſame year 1650, One hundred and twenty thou
+<pb n="10" facs="tcp:115141:6"/>ſand pounds more was borrowed and ſecured by ſale of Mannors, of Rectories and Gleabe Lands, <hi>Chapters</hi> 29, &amp; 30.</item>
+                  <item>In the ſame year 1650, Two hundred and fifty thouſand pounds more was borrowed and ſecured upon Fee Farme Rents, <hi>chap.</hi> 47.</item>
+                  <item>In the year 1651, Two hundred and fifty thouſand pounds more was borrowed and ſecured upon other Delin<g ref="char:EOLhyphen"/>quents Eſtates, <hi>chap.</hi> 10.</item>
+                  <item>In the year 1652, Twenty five thouſand pounds more was borrowed and ſecured upon the remainder of Fee Farme Rents, <hi>chap.</hi> 6.</item>
+                  <item>In the ſame year 1652, Two hundred thouſand pounds more was borrowed and ſecured upon other Delinquents Eſtates, <hi>Chap.</hi> 11.</item>
+                  <item>In the ſame year 1652, Six hundred thouſand pounds more was borrowed and ſecured upon other Delinquents Eſtates, <hi>Chap.</hi> 23.</item>
+                  <item>In the ſame year 1652, One hundred thouſand pounds more was borrowed and ſecured upon other Delinquents Eſtates, not contracted for before the firſt of <hi>November,</hi> 1652, <hi>chap.</hi> 29.</item>
+               </list>
+               <p>Theſe particulars I can only name, 'this not being the fifth part of their unjuſt exactions, but if they had had no more, this ſame might very well have been ſufficient, it amounting to two Millions one hundred and ſeaven thou<g ref="char:EOLhyphen"/>ſand pounds, beſides Taxes at one hundred and twenty thouſand pounds <hi>per menſem,</hi> which annually amounts to one Million four hundred and forty thouſand pounds out right, beſides the Sale of Crown Lands, which in ſea<g ref="char:EOLhyphen"/>ven years amounts to ten Millions and fourſcore thouſand pounds, the Plate, Jewels of the King Queen and Prince Delinquents Eſtates, Delinquents Compoſitions, Church Revenues, Lead, and Timber Forreſts, Fee Farme Rents, Dea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e and Chapters Lands, the Citizens with their Wives
+<pb n="11" facs="tcp:115141:6"/>Children and Servants free guifts of their Rings, Plate, and Jewels, Thimbles and Botkins, beſides Exciſe and Cuſtome, Tunnage and poundage, which cannot amount to leſs annually then two Millons of money more, beſides all the monies firſt lent, and then doubled upon the publick Faith and their other private exactions, which in all amounts to ſo much or more as would puzle the beſt Arethmetitian in Europe to bring into one groſs ſumm, and a thing that if they themſelves were called to give an ac<g ref="char:EOLhyphen"/>count of they could not do it, or if they could, I do verily beleive they would not, and now that I have ſhewed you a thing to be adviſed how all this money was ſo unjuſtly ex<g ref="char:EOLhyphen"/>acted and paid, I ſhall here preſent to your view how ſome part of it was diſpoſed, and if truth were known, the moſt of it went the ſame way; all the deeds theſe fellows ever aimed at, tending to the inriching themſelves, and impove<g ref="char:EOLhyphen"/>riſhing the Nation, as by the following Catalogue may ap<g ref="char:EOLhyphen"/>pear, of whom <hi>William Lenthall</hi> ſhall lead the Van.</p>
+               <p>
+                  <hi>William Lenthall</hi> Speaker to this Parliament, had two thouſand pounds given him at one time, ſix thouſand pounds at another time, beſides places of truſt he held and enjoyed, worth to him above twenty thouſand pounds <hi>per annum;</hi> And he like<g ref="char:EOLhyphen"/>wiſe had of every Gentleman that made his Com<g ref="char:EOLhyphen"/>poſition at Gold-Smiths-Hall five pounds (at which ſome perſons make a but) but if he had no more it was very fair, for the books will ſhew you that there was above four ſcore thouſand perſons, who compounded, which at five pound a man <hi>Lenthall</hi> received, it came to above four hundred thouſand pounds clear into his Pocket.</p>
+               <list>
+                  <item>
+                     <hi>Edmond Prideaux</hi> had places given him worth
+<pb n="12" facs="tcp:115141:7"/>ſeaven thouſand and two hundred pounds <hi>per annum.</hi>
+                  </item>
+                  <item>The Earle of <hi>Warwick</hi> a place worth five thou<g ref="char:EOLhyphen"/>ſand pounds <hi>per annum.</hi>
+                  </item>
+                  <item>Sr. <hi>Gilbert Gerrard</hi> had gratuities and places worth threeſcore thouſand pounds.</item>
+                  <item>
+                     <hi>Bulstrode Whitlock</hi> had given him the place of one of the Commiſſioners of the Great Seal, worth 1500 pound <hi>per annum.</hi>
+                  </item>
+                  <item>Alderman <hi>Pennington</hi> had given him ſeaven thouſand pound, and ſtore of Biſhops Lands.</item>
+                  <item>One <hi>Thomas Pury</hi> three thouſand <hi>pounds.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Selden</hi> five thouſand <hi>pounds,</hi> of which he received two thouſand five hundred.</item>
+                  <item>Sir <hi>Benjamin Rudyard</hi> five thouſand <hi>pounds.</hi>
+                  </item>
+                  <item>Sir <hi>Iohn Hipſley</hi> two thouſand <hi>pounds.</hi>
+                  </item>
+                  <item>
+                     <hi>Benjamin Valentine</hi> five thouſand <hi>pounds.</hi>
+                  </item>
+                  <item>Sir <hi>Henry Heyman</hi> five thouſand <hi>pounds.</hi>
+                  </item>
+                  <item>
+                     <hi>Denzill Hollis</hi> five thouſand <hi>pounds.</hi>
+                  </item>
+                  <item>
+                     <hi>Nathaniel Bacon</hi> three thouſand <hi>pounds.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Stevens</hi> one thouſand <hi>pound.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Reynolds</hi> two thouſand <hi>pound,</hi> &amp;c:</item>
+               </list>
+               <p>But becauſe I would not make my Narration too tedious, I thought good to abreviate in naming every Particular mans name, to whom their libe<g ref="char:EOLhyphen"/>rality of other mens moneys and Eſtates was given, &amp; tell you the ſumm of their guifts is as un<g ref="char:EOLhyphen"/>eaſie to be numbred, as all the particular perſons on whom their guifs were beſtowed, but I leave you to judge how handſomly your monies was be<g ref="char:EOLhyphen"/>ſtowed
+<pb n="13" facs="tcp:115141:7"/>and that if <hi>Lenthall</hi> the Speaker got four hundred thouſand pounds at five pound every man that Compounded, the Gentlemens monies the Parliament receiv'd could not but amount to Millions.</p>
+               <p>But if his late Majeſty had uſed that ſeverity he did lenity, he had done well to have lop't the heads of the Mon<g ref="char:EOLhyphen"/>ſters off, and adventured to have ſeen them prove a <hi>Hydra's,</hi> I ſhall conclude upon this, that if <hi>Lenthall</hi> the Speaker were ask't this Queſtion, whether they that ſat as a Parliament (without their fellow Members) by Law were a Par<g ref="char:EOLhyphen"/>liament, I queſtion whether he would make any anſwer, or I challeng him to vindicate it if he can, and free him and themſelves from the Calumny, and oblique that was caſt upon them. But where there is guilt in the Conſcience, there ſilence confeſſes the fact; and they knowing their own guilt made them ſo ſilent; Let them hugg to themſelves what fancies they pleaſe,
+<pb n="14" facs="tcp:115141:8"/>they may be miſtaken, God is juſt, and knew all their ſecret Actings and Councells, and no doubt but the Inno<g ref="char:EOLhyphen"/>cent blood that they have ſhed, and cauſed to be ſhed, will light upon them and their poſterities heads, as it did upon the blind <hi>Jews</hi> for Crucifying our Innocent Saviour, to tell of all their Villanies would ſwell into a lar<g ref="char:EOLhyphen"/>ger Volume, then would in a good ſpace of time be well read, as alſo of their ſeverall breaches of Faith and Oaths both to God &amp; man, their diſſem<g ref="char:EOLhyphen"/>bling Hypocriſie, blinding the people with the ſpetious pretences of Liberty and Religion, when indeed the whole they aimed at, was other mens Eſtates to maintaine their Pride, Luxury, and Ambition. This have I writ for a pre-caution to all true-hearted Engliſh men to have a care of their next Electi<g ref="char:EOLhyphen"/>on of Members, and that theſe fellows be ſet apart as the Wolves from the
+<pb n="15" facs="tcp:115141:8"/>ſheep, that thereby once more we may have cauſe to call our ſelves the happy Kingdome of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi>
+               </p>
+               <closer>For which the Author ſhall daily Pray.</closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
